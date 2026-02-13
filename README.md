@@ -48,15 +48,15 @@ python filename.py server
 
 python network_lab_project.py
 
-When prompted, enter the Server IP address.
+> When prompted, enter the Server IP address.
 
 ### 3. Commands
 
-CREATE → Create a new channel
-JOIN <ChannelID> → Join an existing channel
-SEND <message> → Send message
-SET LOSS <0-1> → Simulate packet loss
-EXIT → Exit client
+- CREATE → Create a new channel
+- JOIN <ChannelID> → Join an existing channel
+- SEND <message> → Send message
+- SET LOSS <0-1> → Simulate packet loss
+- EXIT → Exit client
 
 ---
 
